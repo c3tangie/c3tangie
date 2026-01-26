@@ -1,7 +1,7 @@
 ## Hi there, welcome to my Github profile!
 
 <!--
-Here below you will find current coding-based projects that I'm currently working on.
+I’m Jonathan Tang, a Third Year Student at University of Toronto, pursuing a Bachelor's Degree in Civil Engineering with an interest in computer programming. Here below you will find current coding-based projects that I'm currently working on.
 
 
 Here are some ideas to get you started:

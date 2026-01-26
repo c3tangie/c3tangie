@@ -1,7 +1,8 @@
 ## Hi there, welcome to my Github profile!
 
 <!--
-**c3tangie/c3tangie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here below you will find current coding-based projects that I'm currently working on.
+
 
 Here are some ideas to get you started:
 

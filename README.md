@@ -9,7 +9,6 @@ I enjoy designing and building things that sit at the intersection of **engineer
 ## What I am currently working on
 
 - **Brightway to Canada** — a production education consulting website supporting international students navigating the Canadian K–12 system  
-- Frontend development using **React, Vite, and Tailwind CSS**  
 - Learning **deep learning fundamentals** through coursework and personal projects  
 - Engineering coursework focused on **transportation, urban systems, and building science**
 - Personal Portfolio Website

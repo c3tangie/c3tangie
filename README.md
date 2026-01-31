@@ -19,19 +19,19 @@ I’m especially interested in how **software, automation, and AI** can enhance 
 
 ## What tools I use
 
-**Frontend / Web**
+**Frontend / Web**:
 - React
 - Vite
 - Tailwind CSS
 - JavaScript
 - HTML / CSS
 
-**Programming & AI (in progress)**
+**Programming & AI (in progress)**:
 - Python
 - Git & GitHub
 - Introductory deep learning concepts
 
-**Engineering & Design**
+**Engineering & Design**:
 - AutoCAD
 - Revit
 - Rhino

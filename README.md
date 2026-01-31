@@ -7,7 +7,7 @@ I’m Jonathan Tang, a Third Year Student at University of Toronto, pursuing a B
 
 - **Brightway to Canada Consulting Website**
 - Learning **deep learning fundamentals** through coursework and personal projects  
-- Engineering coursework focused on **transportation, urban systems, and building science**
+- Civil Engineering coursework focused on **transportation and urban systems**
 - Personal Portfolio Website
 
 

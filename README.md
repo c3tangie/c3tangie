@@ -10,28 +10,17 @@ I’m Jonathan Tang, a Third Year Student at University of Toronto, pursuing a B
 - Engineering coursework focused on **transportation, urban systems, and building science**
 - Personal Portfolio Website
 
-I’m especially interested in how **software, automation, and AI** can enhance traditional engineering workflows.
-
 
 ## What tools I use
 
-**Frontend / Web**:
+- Python
+- C++
+- C
+- JavaScript
+- HTML / CSS
 - React
 - Vite
 - Tailwind CSS
-- JavaScript
-- HTML / CSS
-
-**Programming & AI (in progress)**:
-- Python
-- Git & GitHub
-- Introductory deep learning concepts
-
-**Engineering & Design**:
-- AutoCAD
-- Revit
-- Rhino
-- Engineering analysis & technical reporting
 
 
 ## How to reach me

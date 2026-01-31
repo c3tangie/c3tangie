@@ -1,6 +1,6 @@
 # Hi there, welcome to my Github profile!
 
-I’m Jonathan Tang, a Third Year Student at University of Toronto, pursuing a Bachelor's Degree in Civil Engineering with an interest in computer programming. I enjoy designing and building things that sit at the intersection of **engineering, software, and real-world impact**, whether that’s infrastructure-related coursework, client-facing web platforms, or technical side projects.
+I’m Jonathan Tang, a Third Year Student at University of Toronto, pursuing a Bachelor's Degree in Civil Engineering with an interest in computer programming. I enjoy designing and building things that sit at the intersection of **engineering, software, and real-world impact**, whether that’s infrastructure-related coursework, client-facing web platforms, or technical projects.
 
 
 ## What I am currently working on

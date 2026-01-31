@@ -17,7 +17,7 @@ I’m Jonathan Tang, a Third Year Student at University of Toronto, pursuing a B
 - C++
 - C
 - JavaScript
-- HTML / CSS
+- HTML 
 - React
 - Vite
 - Tailwind CSS

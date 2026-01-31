@@ -36,7 +36,7 @@ I’m especially interested in how **software, automation, and AI** can enhance 
 - Revit
 - Rhino
 - Engineering analysis & technical reporting
-- 
+
 
 ## How to reach me
 

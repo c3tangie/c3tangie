@@ -5,7 +5,7 @@ I’m Jonathan Tang, a Third Year Student at University of Toronto, pursuing a B
 
 ## What I am currently working on
 
-- **Brightway to Canada** — a production education consulting website supporting international students navigating the Canadian K–12 system  
+- **Brightway to Canada Consulting Website**
 - Learning **deep learning fundamentals** through coursework and personal projects  
 - Engineering coursework focused on **transportation, urban systems, and building science**
 - Personal Portfolio Website

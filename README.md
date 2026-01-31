@@ -11,7 +11,7 @@ I’m Jonathan Tang, a Third Year Student at University of Toronto, pursuing a B
 - Personal Portfolio Website
 
 
-## What tools I use
+## What programming tools I use
 
 - Python
 - C++

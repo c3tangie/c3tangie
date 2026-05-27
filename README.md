@@ -13,7 +13,7 @@ I’m Jonathan Tang, a Third Year Student at University of Toronto, pursuing a B
 
 ## What tools I use
 
-- Python
+- Python/PyTorch
 - C++
 - C
 - JavaScript

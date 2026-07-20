@@ -26,7 +26,7 @@ I’m Jonathan Tang, an Upcoming Fourth Year Student at University of Toronto, p
 ## How to reach me
 
 - LinkedIn: www.linkedin.com/in/jonathancw-tang
-- Email: jonathan68.tang@gmail.com
+- Email: jonathancw.tang@mail.utoronto.ca
 ---
 
 > 💡 I’m always open to learning, collaboration, and opportunities that blend engineering with software and design.

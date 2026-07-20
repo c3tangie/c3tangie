@@ -6,9 +6,9 @@ I’m Jonathan Tang, an Upcoming Fourth Year Student at University of Toronto, p
 ## What I am currently working on
 
 - **Brightway to Canada Consulting Website**
-- Learning **deep learning fundamentals** through coursework and personal projects  
+- **NavisAI**: my personal autonomous driving AI project
+- **Deep Learning** through coursework and personal projects  
 - Civil Engineering coursework focused on **transportation and urban systems**
-- Personal Portfolio Website
 
 
 ## What tools I use
